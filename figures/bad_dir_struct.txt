@@ -1,0 +1,10 @@
+./{bad.repo.structure}
+- data.csv
+- data1.csv
+- data1_new.csv
+- data1_Sep2025.dat
+- analysis.py
+- analysis2.py
+- analysis_final.py
+- output_figure.png
+- output_Sep2025.png
