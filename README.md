@@ -1,4 +1,4 @@
-# Programming for neuroscientists (in NEUS620)
+# Programming for Neuroscientists (in NEUS620)
 
 A small tutorial exploring basic concepts related to analyzing audio stimuli and neural responses, relevant to understanding how the brain processes sound.
 
